@@ -1,0 +1,6 @@
+c:\users\david\desktop\documents\visual studio 2013\Projects\SpamEmail\SpamEmail\bin\Debug\SpamEmail.exe.config
+c:\users\david\desktop\documents\visual studio 2013\Projects\SpamEmail\SpamEmail\bin\Debug\SpamEmail.exe
+c:\users\david\desktop\documents\visual studio 2013\Projects\SpamEmail\SpamEmail\bin\Debug\SpamEmail.pdb
+c:\users\david\desktop\documents\visual studio 2013\Projects\SpamEmail\SpamEmail\obj\Debug\SpamEmail.csprojResolveAssemblyReference.cache
+c:\users\david\desktop\documents\visual studio 2013\Projects\SpamEmail\SpamEmail\obj\Debug\SpamEmail.exe
+c:\users\david\desktop\documents\visual studio 2013\Projects\SpamEmail\SpamEmail\obj\Debug\SpamEmail.pdb
